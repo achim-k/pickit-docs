@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Read the Docs Template'
+project = u'Pick-it'
 copyright = u'2018, Pick-it N.V.'
 
 # The version info for the project you're documenting, acts as replacement for
