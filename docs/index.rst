@@ -1,27 +1,17 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to Pick-it documentation!
 =================================
 
 .. hint::
-  This is Version 1.9
+  This is Version 1.10
 
 .. toctree::
   :maxdepth: 1
   :caption: Contents:
 
   getting_started/index
+  web_interface/index
+  robot_specific/index
   troubleshooting
   faq
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
